@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evalwhen
-- 👀 I’m interested in devops and compiler
+- 👀 I’m interested in compiler
 - 🌱 I’m currently learning to write compiler from iu complier course P523
 - 💞️ I’m looking to collaborate on ...
 - 📫 huzi.master@outlook.com
