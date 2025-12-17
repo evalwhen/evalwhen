@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @evalwhen
-- 👀 I’m interested in compiler
-- 🌱 I’m currently learning to write compiler from iu complier course P523
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in functinal programming
 - 📫 huzi.master@outlook.com
 
 <!---
